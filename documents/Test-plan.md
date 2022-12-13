@@ -7,7 +7,7 @@ Grammar:
 3) After a successfully completed task, a reward is formed and 10 energies are written off (6 or 2 energies)
 4) The reward has been successfully credited to the wallet
 
-The words:
+Words:
 1) Each task has 4 words.
 2) Each word has a correct translation and voice acting.
 3) The task consists of 5 parts: 
